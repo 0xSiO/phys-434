@@ -2,7 +2,7 @@
 name = "phys-434"
 version = "0.1.0"
 description = "University of Washington PHYS 434 Assignments, Labs, etc."
-authors = ["Luc Street <lucis-fluxum@users.noreply.github.com>"]
+authors = ["Luc Street"]
 license = "MIT"
 
 [tool.poetry.dependencies]
